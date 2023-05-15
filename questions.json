@@ -1,0 +1,170 @@
+[
+    {
+    "question": "Qual o maior rio do mundo?",
+    "choice1": "Nilo",
+    "choice2": "Amazonas",
+    "choice3": "Mississippi",
+    "choice4": "Ganges",
+    "answer": 2
+    },
+    {
+    "question": "Qual o país mais populoso do mundo?",
+    "choice1": "Índia",
+    "choice2": "China",
+    "choice3": "Estados Unidos",
+    "choice4": "Indonésia",
+    "answer": 2
+    },
+    {
+    "question": "Qual o maior oceano do mundo?",
+    "choice1": "Atlântico",
+    "choice2": "Índico",
+    "choice3": "Ártico",
+    "choice4": "Pacífico",
+    "answer": 4
+    },
+    {
+    "question": "Qual é a capital do Canadá?",
+    "choice1": "Toronto",
+    "choice2": "Ottawa",
+    "choice3": "Montreal",
+    "choice4": "Vancouver",
+    "answer": 2
+    },
+    {
+    "question": "Qual é o país mais extenso do mundo?",
+    "choice1": "Estados Unidos",
+    "choice2": "Canadá",
+    "choice3": "Rússia",
+    "choice4": "China",
+    "answer": 3
+    },
+    {
+    "question": "Qual é o maior deserto do mundo?",
+    "choice1": "Sara",
+    "choice2": "Atacama",
+    "choice3": "Gobi",
+    "choice4": "Saara",
+    "answer": 4
+    },
+    {
+    "question": "Qual é o ponto mais alto do mundo?",
+    "choice1": "K2",
+    "choice2": "Everest",
+    "choice3": "Makalu",
+    "choice4": "Annapurna",
+    "answer": 2
+    },
+    {
+    "question": "Qual é a maior cordilheira do mundo?",
+    "choice1": "Himalaias",
+    "choice2": "Andes",
+    "choice3": "Alpes",
+    "choice4": "Rockies",
+    "answer": 2
+    },
+    {
+    "question": "Qual é a cidade mais populosa do Brasil?",
+    "choice1": "Rio de Janeiro",
+    "choice2": "Belo Horizonte",
+    "choice3": "São Paulo",
+    "choice4": "Salvador",
+    "answer": 3
+    },
+    {
+    "question": "Qual é a capital da Austrália?",
+    "choice1": "Sydney",
+    "choice2": "Melbourne",
+    "choice3": "Brisbane",
+    "choice4": "Camberra",
+    "answer": 4
+    },
+    {
+    "question": "Qual é o maior país da América do Sul?",
+    "choice1": "Brasil",
+    "choice2": "Argentina",
+    "choice3": "Colômbia",
+    "choice4": "Peru",
+    "answer": 1
+    },
+    {
+    "question": "Qual é o país que faz fronteira com o Brasil ao sul?",
+    "choice1": "Argentina",
+    "choice2": "Uruguai",
+    "choice3": "Paraguai",
+    "choice4": "Bolívia",
+    "answer": 2
+},
+{
+"question": "Qual é o símbolo químico do ouro?",
+"choice1": "Au",
+"choice2": "Ag",
+"choice3": "Fe",
+"choice4": "Cu",
+"answer": 1
+},
+{
+"question": "Quem escreveu a obra 'Dom Quixote'?",
+"choice1": "Miguel de Cervantes",
+"choice2": "William Shakespeare",
+"choice3": "Friedrich Nietzsche",
+"choice4": "Jorge Luis Borges",
+"answer": 1
+},
+{
+"question": "Qual é a capital do Japão?",
+"choice1": "Tóquio",
+"choice2": "Quioto",
+"choice3": "Osaka",
+"choice4": "Nagoya",
+"answer": 1
+},
+{
+"question": "Qual é o maior estado do Brasil em extensão territorial?",
+"choice1": "Amazonas",
+"choice2": "Pará",
+"choice3": "Mato Grosso",
+"choice4": "Minas Gerais",
+"answer": 1
+},
+{
+"question": "Qual é o elemento químico mais abundante na crosta terrestre?",
+"choice1": "Oxigênio",
+"choice2": "Silício",
+"choice3": "Alumínio",
+"choice4": "Ferro",
+"answer": 2
+},
+{
+"question": "Quem pintou a obra 'Monalisa'?",
+"choice1": "Leonardo da Vinci",
+"choice2": "Pablo Picasso",
+"choice3": "Vincent van Gogh",
+"choice4": "Michelangelo",
+"answer": 1
+},
+{
+"question": "Qual é o maior animal terrestre?",
+"choice1": "Elefante africano",
+"choice2": "Rinoceronte branco",
+"choice3": "Girafa",
+"choice4": "Hipopótamo",
+"answer": 1
+},
+{
+"question": "Quem foi o primeiro presidente do Brasil?",
+"choice1": "Getúlio Vargas",
+"choice2": "Juscelino Kubitschek",
+"choice3": "Deodoro da Fonseca",
+"choice4": "Dilma Rousseff",
+"answer": 3
+},
+{
+"question": "Qual é o maior arquipélago do mundo?",
+"choice1": "Havaí",
+"choice2": "Filipinas",
+"choice3": "Maurício",
+"choice4": "Indonésia",
+"answer": 4
+}
+]
