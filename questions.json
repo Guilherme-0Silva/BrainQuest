@@ -166,5 +166,183 @@
 "choice3": "Maurício",
 "choice4": "Indonésia",
 "answer": 4
+},
+    {
+"question": "Qual é a moeda oficial do Japão?",
+"choice1": "Yen",
+"choice2": "Euro",
+"choice3": "Dólar",
+"choice4": "Rupia",
+"answer": 1
+},
+
+{
+"question": "Qual é o maior planeta do sistema solar?",
+"choice1": "Terra",
+"choice2": "Júpiter",
+"choice3": "Saturno",
+"choice4": "Marte",
+"answer": 2
+},
+
+{
+"question": "Quem foi o líder sul-africano vencedor do Prêmio Nobel da Paz em 1993?",
+"choice1": "Nelson Mandela",
+"choice2": "Desmond Tutu",
+"choice3": "F. W. de Klerk",
+"choice4": "Thabo Mbeki",
+"answer": 1
+},
+
+{
+"question": "Qual é o país onde se localiza a Grande Muralha?",
+"choice1": "Japão",
+"choice2": "China",
+"choice3": "Índia",
+"choice4": "Egito",
+"answer": 2
+},
+
+{
+"question": "Quem escreveu a peça de teatro 'Romeu e Julieta'?",
+"choice1": "William Shakespeare",
+"choice2": "Miguel de Cervantes",
+"choice3": "Charles Dickens",
+"choice4": "Oscar Wilde",
+"answer": 1
+},
+
+{
+"question": "Qual é o maior satélite natural da Terra?",
+"choice1": "Marte",
+"choice2": "Lua",
+"choice3": "Vênus",
+"choice4": "Júpiter",
+"answer": 2
+},
+
+{
+"question": "Qual é a capital do Canadá?",
+"choice1": "Toronto",
+"choice2": "Ottawa",
+"choice3": "Montreal",
+"choice4": "Vancouver",
+"answer": 2
+},
+
+{
+"question": "Qual é o maior país do mundo em extensão territorial?",
+"choice1": "Estados Unidos",
+"choice2": "Canadá",
+"choice3": "Rússia",
+"choice4": "China",
+"answer": 3
+},
+
+{
+"question": "Qual é o maior deserto do mundo?",
+"choice1": "Sara",
+"choice2": "Atacama",
+"choice3": "Gobi",
+"choice4": "Saara",
+"answer": 4
+},
+
+{
+"question": "Qual é o ponto mais alto do mundo?",
+"choice1": "K2",
+"choice2": "Everest",
+"choice3": "Makalu",
+"choice4": "Annapurna",
+"answer": 2
+},
+
+{
+"question": "Qual é a maior cordilheira do mundo?",
+"choice1": "Himalaias",
+"choice2": "Andes",
+"choice3": "Alpes",
+"choice4": "Rockies",
+"answer": 2
+},
+{
+"question": "Qual é o instrumento musical de teclas mais conhecido?",
+"choice1": "Violino",
+"choice2": "Violão",
+"choice3": "Piano",
+"choice4": "Flauta",
+"answer": 3
+},
+
+{
+"question": "Qual é a capital da Argentina?",
+"choice1": "Buenos Aires",
+"choice2": "Santiago",
+"choice3": "Bogotá",
+"choice4": "Lima",
+"answer": 1
+},
+
+{
+"question": "Qual é o menor país do mundo em extensão territorial?",
+"choice1": "Mônaco",
+"choice2": "Vaticano",
+"choice3": "Nauru",
+"choice4": "San Marino",
+"answer": 2
+},
+
+{
+"question": "Qual é o autor de 'O Pequeno Príncipe'?",
+"choice1": "Victor Hugo",
+"choice2": "Antoine de Saint-Exupéry",
+"choice3": "Jules Verne",
+"choice4": "Hermann Hesse",
+"answer": 2
+},
+
+{
+"question": "Qual é a capital do Egito?",
+"choice1": "Cairo",
+"choice2": "Alexandria",
+"choice3": "Luxor",
+"choice4": "Giza",
+"answer": 1
+},
+
+{
+"question": "Qual é o maior animal marinho?",
+"choice1": "Baleia azul",
+"choice2": "Tubarão-branco",
+"choice3": "Polvo gigante",
+"choice4": "Leão-marinho",
+"answer": 1
+},
+
+{
+"question": "Quem foi o líder dos Estados Unidos durante a Guerra Civil Americana?",
+"choice1": "Abraham Lincoln",
+"choice2": "George Washington",
+"choice3": "Thomas Jefferson",
+"choice4": "Andrew Johnson",
+"answer": 1
+},
+
+{
+"question": "Qual é a capital da Espanha?",
+"choice1": "Barcelona",
+"choice2": "Madri",
+"choice3": "Valência",
+"choice4": "Sevilha",
+"answer": 2
+},
+
+{
+"question": "Qual é o processo de transformação de um líquido em gás chamado?",
+"choice1": "Evaporação",
+"choice2": "Solidificação",
+"choice3": "Condensação",
+"choice4": "Sublimação",
+"answer": 1
 }
 ]
